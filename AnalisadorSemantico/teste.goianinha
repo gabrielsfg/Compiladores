@@ -1,0 +1,5 @@
+int a, b;
+programa {
+    a = 5;
+    b = a + 3;
+}
